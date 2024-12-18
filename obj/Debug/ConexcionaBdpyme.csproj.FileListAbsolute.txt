@@ -1,0 +1,7 @@
+C:\Users\fede_\OneDrive\Escritorio\Conexcion a Bdpyme\ConexcionaBdpyme\ConexcionaBdpyme\obj\Debug\ConexcionaBdpyme.csproj.AssemblyReference.cache
+C:\Users\fede_\OneDrive\Escritorio\Conexcion a Bdpyme\ConexcionaBdpyme\ConexcionaBdpyme\obj\Debug\ConexcionaBdpyme.csproj.CoreCompileInputs.cache
+C:\Users\fede_\OneDrive\Escritorio\Conexcion a Bdpyme\ConexcionaBdpyme\ConexcionaBdpyme\bin\Debug\ConexcionaBdpyme.exe.config
+C:\Users\fede_\OneDrive\Escritorio\Conexcion a Bdpyme\ConexcionaBdpyme\ConexcionaBdpyme\bin\Debug\ConexcionaBdpyme.exe
+C:\Users\fede_\OneDrive\Escritorio\Conexcion a Bdpyme\ConexcionaBdpyme\ConexcionaBdpyme\bin\Debug\ConexcionaBdpyme.pdb
+C:\Users\fede_\OneDrive\Escritorio\Conexcion a Bdpyme\ConexcionaBdpyme\ConexcionaBdpyme\obj\Debug\ConexcionaBdpyme.exe
+C:\Users\fede_\OneDrive\Escritorio\Conexcion a Bdpyme\ConexcionaBdpyme\ConexcionaBdpyme\obj\Debug\ConexcionaBdpyme.pdb
